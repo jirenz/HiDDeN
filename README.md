@@ -1,6 +1,6 @@
 # HiDDeN
-HiDDeN: Hiding Data with Deep Networks. [arxiv](https://arxiv.org/abs/1807.09937)
-Jiren Zhu*, Russell Kaplan*, Justin Johnson, Li Fei-Fei
+HiDDeN: Hiding Data with Deep Networks. [arxiv](https://arxiv.org/abs/1807.09937)  
+Jiren Zhu*, Russell Kaplan*, Justin Johnson, Li Fei-Fei  
 *: These authors contributed equally
 
 Warning: This repo is still WIP, let us know if you encounter bugs or issues.
