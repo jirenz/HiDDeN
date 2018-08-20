@@ -9,13 +9,13 @@ Warning: This repo is still WIP, let us know if you encounter bugs or issues.
 A sample dataset is provided in `data/yuv_coco_debug.t7`. Afte you download train2014 of COCO dataset, you can use `HiDDeN/coco_prep.lua` to generate the training dataset.
 
 ## Running models
-With the testing dataset. You can run
+* With the testing dataset. You can run
 ```
 th main.lua --develop --name test-run --type float
 ```
 , training results will be written to `checkpoints/test-run`.  
 
-If you have cuda setup. You can run 
+* If you have cuda setup. You can run 
 ```
 th main.lua --develop --name <experiment name>
 ```
