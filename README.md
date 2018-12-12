@@ -25,3 +25,6 @@ If you have the full dataset, remove the `develop` flag.
 
 ## Pretrained models
 Coming soon...
+
+## Other implementations
+* Pytorch implementation by Ando: [https://github.com/ando-khachatryan/HiDDeN](https://github.com/ando-khachatryan/HiDDeN).
