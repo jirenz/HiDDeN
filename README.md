@@ -27,4 +27,4 @@ If you have the full dataset, remove the `develop` flag.
 Coming soon...
 
 ## Other implementations
-* Pytorch implementation by Ando: [https://github.com/ando-khachatryan/HiDDeN](https://github.com/ando-khachatryan/HiDDeN).
+* Pytorch implementation by Ando Khachatryan: [https://github.com/ando-khachatryan/HiDDeN](https://github.com/ando-khachatryan/HiDDeN).
